@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 
 /**
  * @author xjy
- * @version 0.5
+ * @version 0.5.1
  * */
 
 public class ExtractFeature {
@@ -269,13 +269,6 @@ public class ExtractFeature {
 	}
 	
 	public static void main(String[] args) {
-//		int tagNum = 0;
-//		Pattern patterntag = Pattern.compile("<a.*?>.*?</a>");
-//		Matcher matchtag = patterntag.matcher("<a>sss</a>sdsd32323<a>sd</a>sd5422<tr>sd</tr>");
-//		while(matchtag.find()){
-//			tagNum++;
-//		}
-//		System.out.println(tagNum);
 
 	}
 
