@@ -14,7 +14,7 @@ import java.util.Vector;
 
 /**
  * @author xjy
- * @version 0.5
+ * @version 0.5.1
  * 
  * */
 
@@ -46,10 +46,10 @@ public class Classify {
 	private static final double newsThreshold = 11.507165d;
 	
 	/** 博客网页阈值 */
-	private static final double blogsThreshold = 12.105172d;
+	private static final double blogsThreshold = 11.505172d;
 	
 	/** 论坛网页阈值 */
-	private static final double forumsThreshold = 12.378243d;
+	private static final double forumsThreshold = 12.358243d;
 	
 	public Classify(String modelLocation){
 		init(modelLocation);

@@ -12,7 +12,7 @@ import org.xjy.classify.Classify;
 
 /**
  * @author xjy
- * @version 0.5
+ * @version 0.5.1
  * 
  * */
 
