@@ -1,3 +1,9 @@
+<head>
+    <script type="text/javascript"
+            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+</head>
+
 # tricategory
 
 ##1. 网页的表示
@@ -31,4 +37,4 @@
 ##3. 分类
 ###3.1 kNN算法
 <p>kNN分类算法是一种传统的基于统计的模式识别方法。算法思想很简单：对于一篇待分类文档，系统在训练集中找到k个最相近的邻居，使用这k个邻居的类别为该文档的候选类别。该文档与k个邻居之间的相似度按类别分别求和，减去一个预先得到的截尾阈值，就得到该文档的类别测度。可用如下公式描述：
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29%0D%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+$$e=mc^2$$
